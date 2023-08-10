@@ -1,0 +1,18 @@
+
+Differentiation : log(x) @ 100, Using, 
+Newton's difference quotient: 0.01
+Symmetric difference quotient: 0.01
+Five point method: 0.01
+
+
+Integration : y = (4-x^2)^0.5 from 0 to 2, which is the area of a quarter circle of radius 2 and in turn, estimates pi, Using,
+Value in C++ std::numbers symbol index: 3.141592653589793
+Midpoint rule: 3.141592653934374
+Trapezoidal rule: 3.1415926524139723
+composite Simpson's 1/3 rule: 3.141591319798542
+
+
+Ordinary differential equations : y' = y such that y(0) = 1, estimate y(1) which in turn estimates e, Using,
+Value in C++ std::numbers symbol index: 2.718281828459045
+Euler method: 2.7182804693194718
+
